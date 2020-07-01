@@ -7,11 +7,11 @@ divi = a/b
 resto = a % b
 
 
-print('Soma: {soma}.'
+print('Soma: {soma}'
       ' \nSubtracao: {sub} '
-      '\nMultiplicação: {multi}. '
-      '\nDivisão: {divi}. '
-      '\nResto: {resto}.'
+      '\nMultiplicação: {multi} '
+      '\nDivisão: {divi} '
+      '\nResto: {resto}'
       .format(soma=soma,
               sub=subtracao,
               divi=divi,
